@@ -1,3 +1,0 @@
-seq is in /Volumes/users/Corinne_Simonti/projects/RNA/data/fa/test.fa
-A: ( 11 / 14 ) 
-B: 6 2 
